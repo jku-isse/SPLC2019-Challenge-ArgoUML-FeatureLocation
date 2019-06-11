@@ -1,8 +1,6 @@
 # SPLC2019-Challenge-ArgoUML-FeatureLocation
 Artifacts for the paper "Comparison-Based Feature Location in ArgoUML Variants" submitted as solution to the ArgoUML challenge of SPLC 2019.
 
-*Data, results, instructions to reproduce, etc. will be added here shortly!*
-
 All that is needed to reproduce the results is available in the [main ECCO repository](https://github.com/jku-isse/ecco/tree/develop).
 
 It contains the [Java adapter implemented for the challenge](https://github.com/jku-isse/ecco/tree/develop/adapter/challenge).
