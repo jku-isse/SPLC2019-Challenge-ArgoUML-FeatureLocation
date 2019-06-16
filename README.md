@@ -1,5 +1,9 @@
 # SPLC2019-Challenge-ArgoUML-FeatureLocation
-Artifacts for the paper "Comparison-Based Feature Location in ArgoUML Variants" submitted as solution to the ArgoUML challenge of SPLC 2019.
+
+Artifacts for the paper "Comparison-Based Feature Location in ArgoUML Variants" submitted as solution to the [ArgoUML feature location challenge](https://variability-challenges.github.io/2018/ArgoUMLSPL/index.html) of SPLC.
+
+The [results](https://github.com/jku-isse/SPLC2019-Challenge-ArgoUML-FeatureLocation/tree/master/results) folder contains a subfolder for each of the 15 scenarios of the challenge.
+Each scenario folder contains a CSV file with the metrics computed by the challenge benchmark and the corresponding set of traces in the format requested by the challenge.
 
 All that is needed to reproduce the results is available in the [main ECCO repository](https://github.com/jku-isse/ecco/tree/develop).
 
