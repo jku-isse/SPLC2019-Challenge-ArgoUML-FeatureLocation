@@ -14,8 +14,8 @@ All that is needed to reproduce the results is available in two repositories:
 * [ECCO repository](https://github.com/jku-isse/ecco/tree/develop) contains our solution including the [Java adapter implemented for the challenge](https://github.com/jku-isse/ecco/tree/develop/adapter/challenge).
 
 The file [ChallengeTest.java](https://github.com/jku-isse/ecco/tree/develop/adapter/challenge/src/integrationTest/java/at/jku/isse/ecco/adapter/challenge/test/ChallengeTest.java) contains five unit test cases:
-* `Do_All_Scenarios`: a convenience test case that executes the `Create_Repo`, `Compute_Results` and `Compute Metrics` test cases in this order for every scenario contained in the benchmark.
+* `Do_All_Scenarios`: a convenience test case that executes the `Create_Repo`, `Compute_Results` and `Compute Metrics` test cases in this order for every scenario contained in the challenge benchmark.
 * `Create_Repo`: creates the ECCO repository containing all the computed traces for a specific scenario.
 * `Compute_Results`: converts the traces stored in an ECCO repository to the format requested by the challenge benchmark.
-* `Compute_Metrics`: computes the metrics requested by the challenge benchmark for computed results.
+* `Compute_Metrics`: computes the metrics requested by the challenge for the computed results.
 * `Analyze_Differences`: optional; shows all the differences between the results computed from an ECCO repository and the ground truth results provided by the challenge benchmark.
