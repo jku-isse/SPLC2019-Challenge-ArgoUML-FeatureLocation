@@ -1,0 +1,404 @@
+org.argouml.uml.ui.behavior.use_cases.ActionNewUseCase
+org.argouml.uml.ui.behavior.activity_graphs.ActionAddCISState doIt(Collection) Refinement
+org.argouml.uml.cognitive.critics.CrSubclassReference
+org.argouml.uml.diagram.activity.ActivityDiagramGraphModel
+org.argouml.uml.ui.behavior.use_cases.UMLUseCaseExtendListModel
+org.argouml.cognitive.ui.ActionAutoCritique
+org.argouml.cognitive.checklist.ChecklistStatus
+org.argouml.uml.diagram.ArgoDiagramImpl repairFig(Fig,StringBuffer) Refinement
+org.argouml.cognitive.ui.WizDescription
+org.argouml.profile.Profile getCritics()
+org.argouml.uml.ui.behavior.use_cases.PropPanelActor
+org.argouml.uml.cognitive.critics.CrNameConfusion
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.ActionAddOFSState doIt(Collection) Refinement
+org.argouml.uml.ui.behavior.activity_graphs.ActionSetSynch actionPerformed(ActionEvent) Refinement
+org.argouml.uml.diagram.ui.FigNodeModelElement getPopUpActions(MouseEvent) Refinement
+org.argouml.application.helpers.ApplicationVersion getManualForCritic()
+org.argouml.uml.ui.behavior.use_cases.UMLExtendExtensionListModel
+org.argouml.uml.cognitive.critics.CrClassMustBeAbstract
+org.argouml.cognitive.checklist.ui.TabChecklist
+org.argouml.uml.cognitive.critics.CrCrossNamespaceAssoc
+org.argouml.application.PostLoad Refinement
+org.argouml.application.Main initializeGUI(SplashScreen) Refinement
+org.argouml.cognitive.ToDoList
+org.argouml.persistence.TodoTokenTable
+org.argouml.uml.diagram.state.ui.UMLStateDiagram drop(Object,Point) Refinement
+org.argouml.uml.diagram.activity.ui.FigCallState
+org.argouml.uml.cognitive.critics.WizMEName
+org.argouml.profile.UserDefinedProfile UserDefinedProfile(String,URL,Set<Critic>,Set<String>)
+org.argouml.uml.cognitive.critics.CrNameConflictAC
+org.argouml.uml.reveng.ImportCommon Refinement
+org.argouml.kernel.ProjectImpl addMember(Object) Refinement
+org.argouml.persistence.ModelMemberFilePersister registerDiagramsInternal(Project,Collection,boolean) Refinement
+org.argouml.kernel.MemberList get(int) Refinement
+org.argouml.uml.cognitive.critics.CrUnconventionalClassName
+org.argouml.cognitive.ui.WizStepManyTextFields
+org.argouml.uml.ui.ActionLayout isEnabled() Refinement
+org.argouml.cognitive.Decision
+org.argouml.kernel.MemberList setTodoList(AbstractProjectMember)
+org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml parseObjectFlowState1(Object,String) Refinement
+org.argouml.cognitive.ui.ToDoPerspective
+org.argouml.cognitive.ui.GoListToGoalsToItems
+org.argouml.uml.cognitive.critics.WizTooMany
+org.argouml.uml.cognitive.critics.CrInvalidPseudoStateTrigger
+org.argouml.uml.ui.behavior.activity_graphs.ActionRemoveCISState actionPerformed(ActionEvent) Refinement
+org.argouml.profile.internal.ProfileManagerImpl ProfileManagerImpl() Refinement
+org.argouml.cognitive.CompositeCM
+org.argouml.profile.init.ProfileLoader loadProfilesFromJarFile(Manifest,File,ClassLoader) Refinement
+org.argouml.kernel.MemberList buildOrderedMemberList() Refinement
+org.argouml.uml.ui.behavior.use_cases.PropPanelExtend
+org.argouml.uml.diagram.activity.ui.ActionCreatePartition
+org.argouml.cognitive.AbstractCognitiveTranslator
+org.argouml.uml.cognitive.critics.CrZeroLengthEdge
+org.argouml.profile.init.InitProfileSubsystem Refinement
+org.argouml.uml.cognitive.critics.CrIllegalName
+org.argouml.persistence.XmiFilePersister parse(String,String) Refinement
+org.argouml.uml.cognitive.critics.WizAddConstructor
+org.argouml.cognitive.ui.ActionSnooze
+org.argouml.uml.cognitive.critics.CrEmptyPackage
+org.argouml.profile.internal.ProfileUML loadWellFormednessRules()
+org.argouml.uml.ui.ActionLayout Refinement
+org.argouml.uml.diagram.DiagramFactory Refinement
+org.argouml.uml.cognitive.critics.CrConflictingComposites
+org.argouml.cognitive.ui.GoListToOffenderToItem
+org.argouml.profile.UserDefinedProfile str2Decision(String)
+org.argouml.uml.diagram.ui.FigEdgeModelElement Refinement
+org.argouml.uml.diagram.use_case.ui.PropPanelUMLUseCaseDiagram
+org.argouml.uml.ui.ActionActivityDiagram
+org.argouml.uml.cognitive.ChildGenSearch
+org.argouml.persistence.TodoParser
+org.argouml.uml.diagram.UmlDiagramRenderer Refinement
+org.argouml.uml.cognitive.critics.CrMultipleDeepHistoryStates
+org.argouml.uml.ui.TabProps shouldBeEnabled(Object) Refinement
+org.argouml.ui.cmd.ActionNew actionPerformed(ActionEvent) Refinement
+org.argouml.cognitive.ui.GoListToPriorityToItem
+org.argouml.pattern.cognitive.critics.CrConsiderSingleton
+org.argouml.model.Model getActivityGraphsHelper()
+org.argouml.uml.ui.ElementPropPanelFactory createPropPanel(Object) Refinement
+org.argouml.uml.diagram.activity.ui.SelectionCallState
+org.argouml.ui.explorer.rules.GoNamespaceToDiagram Refinement
+org.argouml.uml.ui.behavior.use_cases.UMLExtensionPointExtendListModel
+org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer
+org.argouml.uml.diagram.state.ui.UMLStateDiagram Refinement
+org.argouml.uml.diagram.use_case.ui.UseCaseDiagramRenderer
+org.argouml.uml.cognitive.critics.CrInterfaceOperOnly
+org.argouml.uml.cognitive.critics.CrTooManyStates
+org.argouml.cognitive.ui.ToDoByPoster
+org.argouml.ui.cmd.ActionNew Refinement
+org.argouml.uml.diagram.use_case.ui.FigActor
+org.argouml.profile.internal.ProfileManagerImpl Refinement
+org.argouml.uml.cognitive.UMLDecision
+org.argouml.cognitive.OrCM
+org.argouml.uml.ui.behavior.use_cases.ActionNewActor
+org.argouml.uml.cognitive.critics.CrMultipleInitialStates
+org.argouml.ui.cmd.ActionSelectInvert ActionSelectInvert() Refinement
+org.argouml.uml.cognitive.critics.CrJoinIncomingTransition
+org.argouml.uml.cognitive.critics.ClClassName
+org.argouml.cognitive.ui.DismissToDoItemDialog
+org.argouml.uml.cognitive.critics.CrCircularComposition
+org.argouml.uml.cognitive.critics.CrUtilityViolated
+org.argouml.profile.internal.ProfileUML ProfileUML() Refinement
+org.argouml.profile.UserDefinedProfile generateCriticFromComment(Object)
+org.argouml.uml.cognitive.critics.CrAssocNameConflict
+org.argouml.persistence.ResolvedCriticXMLHelper
+org.argouml.uml.cognitive.critics.CrNWayAgg
+org.argouml.profile.UserDefinedProfile Refinement
+org.argouml.profile.UserDefinedProfile str2KnowledgeType(String)
+org.argouml.uml.ui.behavior.use_cases.UMLExtensionPointUseCaseListModel
+org.argouml.uml.diagram.activity.ui.SelectionActionState getNewNode(int)
+org.argouml.ui.cmd.GenericArgoMenuBar Refinement
+org.argouml.uml.ui.behavior.use_cases.ActionNewExtendExtensionPoint
+org.argouml.cognitive.Translator
+org.argouml.uml.cognitive.critics.CrNoAssociations
+org.argouml.application.LoadModules Refinement
+org.argouml.notation.providers.uml.ExtensionPointNotationUml parseExtensionPoint(String)
+org.argouml.cognitive.ui.KnowledgeTypeNode
+org.argouml.cognitive.ui.GoListToTypeToItem
+org.argouml.application.Main initTranslator() Refinement
+org.argouml.uml.cognitive.critics.CrMultipleShallowHistoryStates
+org.argouml.persistence.XmiFilePersister Refinement
+org.argouml.application.StartCritics
+org.argouml.ui.cmd.ActionSelectAll ActionSelectAll() Refinement
+org.argouml.cognitive.ui.GoListToPosterToItem
+org.argouml.profile.UserDefinedProfile str2Priority(String)
+org.argouml.uml.diagram.use_case.ui.FigUseCase
+org.argouml.uml.diagram.activity.ui.FigPool
+org.argouml.uml.diagram.use_case.ui.SelectionActor
+org.argouml.cognitive.ToDoListEvent
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram doesAccept(Object) Refinement
+org.argouml.uml.diagram.ui.FigNodeModelElement Refinement
+org.argouml.uml.cognitive.critics.CrNoOperations
+org.argouml.ui.DisplayTextTree convertValueToText(Object,boolean,boolean,boolean,int,boolean) Refinement
+org.argouml.cognitive.ui.ActionOpenDecisions
+org.argouml.ui.explorer.rules.GoNamespaceToDiagram getChildren(Object) Refinement
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedMissingStaticAttr
+org.argouml.uml.diagram.activity.ui.FigSubactivityState
+org.argouml.uml.cognitive.critics.AbstractCrUnconventionalName
+org.argouml.cognitive.CurDecisionCM
+org.argouml.cognitive.ControlMech
+org.argouml.uml.cognitive.critics.CrProfile
+org.argouml.uml.diagram.use_case.ui.FigExtend
+org.argouml.uml.cognitive.critics.WizOperName
+org.argouml.uml.cognitive.critics.CrConstructorNeeded
+org.argouml.uml.ui.behavior.use_cases.UMLIncludeAdditionListModel
+org.argouml.cognitive.ui.AbstractGoList
+org.argouml.cognitive.DecisionModel
+org.argouml.ui.explorer.PerspectiveManager loadRules() Refinement
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedOnlyPrivateConstructors
+org.argouml.ui.Clarifier Refinement
+org.argouml.cognitive.critics.Wizard
+org.argouml.kernel.ProjectManager Refinement
+org.argouml.uml.ui.ActionLayout actionPerformed(ActionEvent) Refinement
+org.argouml.uml.cognitive.critics.CrMissingOperName
+org.argouml.uml.cognitive.critics.UMLWizard
+org.argouml.uml.cognitive.critics.CrTooManyClasses
+org.argouml.cognitive.ui.ActionNewToDoItem
+org.argouml.uml.diagram.ui.FigNodeModelElement hitClarifier(int,int)
+org.argouml.uml.cognitive.critics.CrMultipleAgg
+org.argouml.uml.cognitive.critics.WizAssocComposite
+org.argouml.uml.cognitive.critics.CrNonAggDataType
+org.argouml.uml.diagram.activity.ui.PropPanelUMLActivityDiagram
+org.argouml.cognitive.checklist.Checklist
+org.argouml.uml.diagram.activity.ui.FigObjectFlowState
+org.argouml.uml.cognitive.critics.CrNodesOverlap
+org.argouml.uml.ui.behavior.use_cases.ActionNewUseCaseExtensionPoint
+org.argouml.cognitive.ui.WizStep
+org.argouml.uml.cognitive.critics.CrDisambigStateName
+org.argouml.ui.explorer.rules.GoCriticsToCritic
+org.argouml.uml.cognitive.critics.CrDupRoleNames
+org.argouml.uml.cognitive.critics.CrInvalidBranch
+org.argouml.uml.diagram.UmlDiagramRenderer getFigNodeFor(Object,int,int,Map) Refinement
+org.argouml.uml.diagram.activity.layout.ActivityDiagramLayouter
+org.argouml.ui.explorer.PerspectiveManager Refinement
+org.argouml.cognitive.ListSet
+org.argouml.cognitive.checklist.ui.InitCheckListUI
+org.argouml.profile.init.ProfileLoader Refinement
+org.argouml.cognitive.ui.ActionGoToCritique
+org.argouml.pattern.cognitive.critics.InitPatternCritics
+org.argouml.ui.explorer.ExplorerPopup initMenuCreateDiagrams() Refinement
+org.argouml.cognitive.ui.DesignIssuesDialog
+org.argouml.uml.ui.behavior.use_cases.UMLExtensionPointLocationDocument
+org.argouml.kernel.MemberList size() Refinement
+org.argouml.uml.cognitive.critics.CrMultiComposite
+org.argouml.uml.cognitive.critics.WizCueCards
+org.argouml.uml.ui.behavior.use_cases.ActionNewExtensionPoint
+org.argouml.persistence.TodoListMemberFilePersister
+org.argouml.uml.ui.behavior.use_cases.ActionAddExtendExtensionPoint
+org.argouml.uml.ui.behavior.use_cases.PropPanelInclude
+org.argouml.uml.cognitive.critics.CrUselessInterface
+org.argouml.uml.cognitive.critics.ChildGenDerivedClasses
+org.argouml.ui.ProjectBrowser Refinement
+org.argouml.uml.diagram.ui.FigEdgeModelElement paintClarifiers(Graphics) Refinement
+org.argouml.uml.diagram.activity.ui.InitActivityDiagram
+org.argouml.uml.cognitive.critics.CrNavFromInterface
+org.argouml.uml.ui.ActionUseCaseDiagram
+org.argouml.uml.cognitive.critics.CrUML
+org.argouml.cognitive.ui.ToDoByDecision
+org.argouml.ui.cmd.GenericArgoMenuBar initMenuCreate() Refinement
+org.argouml.uml.diagram.activity.ui.FigPartition
+org.argouml.uml.cognitive.critics.CrInvalidFork
+org.argouml.uml.cognitive.ProjectMemberTodoList
+org.argouml.uml.cognitive.critics.CrNoIncomingTransitions
+org.argouml.cognitive.ui.ActionOpenGoals
+org.argouml.cognitive.critics.ui.TableCritics
+org.argouml.cognitive.ui.InitCognitiveUI
+org.argouml.uml.cognitive.checklist.UMLCheckItem
+org.argouml.profile.internal.ui.PropPanelCritic
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.ActionRemoveOFSState actionPerformed(ActionEvent) Refinement
+org.argouml.cognitive.ui.GoalsDialog
+org.argouml.uml.ui.behavior.use_cases.UMLIncludeListModel
+org.argouml.profile.Profile setCritics(Set<Critic>)
+org.argouml.cognitive.CompoundCritic
+org.argouml.cognitive.checklist.ui.TableModelChecklist
+org.argouml.uml.diagram.DiagramFactory DiagramFactory() Refinement
+org.argouml.application.Main main(String[]) Refinement
+org.argouml.uml.ui.behavior.use_cases.UMLExtendBaseListModel
+org.argouml.uml.cognitive.critics.CrInvalidSynch
+org.argouml.cognitive.ToDoListListener
+org.argouml.cognitive.critics.ui.ActionOpenCritics
+org.argouml.persistence.OffenderXMLHelper
+org.argouml.ui.explorer.rules.GoProfileToCritics
+org.argouml.ui.explorer.rules.GoStatemachineToDiagram Refinement
+org.argouml.uml.diagram.use_case.ui.FigInclude
+org.argouml.uml.cognitive.critics.CrNoInitialState
+org.argouml.kernel.MemberList toArray() Refinement
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelPartition.ActionAddPartitionContent doIt(Collection) Refinement
+org.argouml.uml.cognitive.critics.CrFinalSubclassed
+org.argouml.cognitive.ui.WizStepConfirm
+org.argouml.uml.reveng.ImportCommon doImport(ProgressMonitor) Refinement
+org.argouml.uml.cognitive.critics.WizManyNames
+org.argouml.ui.cmd.ShortcutMgr Refinement
+org.argouml.cognitive.ui.WizStepCue
+org.argouml.ui.cmd.GenericArgoMenuBar initMenuCritique()
+org.argouml.ui.ProjectBrowser propertyChange(PropertyChangeEvent) Refinement
+org.argouml.uml.diagram.DiagramFactory createDiagram(Class,Object,Object) Refinement
+org.argouml.notation.providers.uml.ExtensionPointNotationUml parseExtensionPointFig(Object,String) Refinement
+org.argouml.ui.explorer.rules.GoStatemachineToDiagram getChildren(Object) Refinement
+org.argouml.uml.cognitive.critics.InitCognitiveCritics
+org.argouml.ui.cmd.ActionSelectAll Refinement
+org.argouml.cognitive.Offender
+org.argouml.ui.Clarifier setToDoItem(ToDoItem)
+org.argouml.cognitive.StandardCM
+org.argouml.cognitive.GoalModel
+org.argouml.uml.diagram.DiagramFactory createInternal(DiagramType,Object,Object,DiagramSettings) Refinement
+org.argouml.cognitive.ToDoItem
+org.argouml.profile.internal.ProfileManagerImpl applyConfiguration(ProfileConfiguration) Refinement
+org.argouml.cognitive.NotSnoozedCM
+org.argouml.uml.cognitive.critics.WizAddOperation
+org.argouml.profile.internal.ProfileManagerImpl loadDefaultProfilesfromConfiguration() Refinement
+org.argouml.profile.internal.ProfileManagerImpl registerProfile(Profile) Refinement
+org.argouml.uml.cognitive.critics.CrInvalidJoin
+org.argouml.uml.ui.behavior.activity_graphs.ActionNewClassifierInState actionPerformed(ActionEvent) Refinement
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.ActionAddOFSParameter doIt(Collection) Refinement
+org.argouml.uml.ui.ElementPropPanelFactory Refinement
+org.argouml.uml.cognitive.critics.CrInterfaceAllPublic
+org.argouml.cognitive.ui.WizStepTextField
+org.argouml.ui.ProjectBrowser loadProject(File,boolean,ProgressMonitor) Refinement
+org.argouml.ui.cmd.GenericArgoMenuBar initMenus() Refinement
+org.argouml.cognitive.ui.WizStepChoice
+org.argouml.cognitive.ui.TabToDo
+org.argouml.uml.cognitive.ChildGenFind
+org.argouml.kernel.ProjectImpl Refinement
+org.argouml.uml.ui.ElementPropPanelFactory getClassifierPropPanel(Object) Refinement
+org.argouml.profile.init.ProfileLoader loadJavaCriticsForProfile(Attributes,ClassLoader)
+org.argouml.uml.diagram.ui.FigNodeModelElement paintClarifiers(Graphics) Refinement
+org.argouml.uml.ui.behavior.use_cases.UMLUseCaseIncludeListModel
+org.argouml.uml.diagram.UmlDiagramRenderer getFigEdgeFor(Object,Map) Refinement
+org.argouml.persistence.AbstractFilePersister Refinement
+org.argouml.cognitive.UnresolvableException
+org.argouml.cognitive.ui.ActionResolve
+org.argouml.profile.internal.ProfileMeta ProfileMeta() Refinement
+org.argouml.uml.cognitive.critics.CrInvalidInitial
+org.argouml.uml.cognitive.critics.CrDisambigClassName
+org.argouml.application.Main initializeSubsystems(SimpleTimer,SplashScreen) Refinement
+org.argouml.uml.cognitive.critics.CrUnconventionalOperName
+org.argouml.profile.UserDefinedProfile finishLoading() Refinement
+org.argouml.uml.ui.UMLConditionExpressionModel setExpression(Object) Refinement
+org.argouml.ui.explorer.PerspectiveManager getDefaultPerspectives() Refinement
+org.argouml.profile.internal.ui.ProfilePropPanelFactory
+org.argouml.uml.diagram.ui.ActionCompartmentDisplay Refinement
+org.argouml.cognitive.Poster
+org.argouml.cognitive.critics.ui.CriticBrowserDialog
+org.argouml.uml.diagram.use_case.ui.StylePanelFigUseCase
+org.argouml.uml.cognitive.critics.ProfileCodeGeneration
+org.argouml.uml.ui.TabProps Refinement
+org.argouml.uml.cognitive.critics.CrDupParamName
+org.argouml.uml.cognitive.critics.ClAttributeCompartment
+org.argouml.cognitive.Highlightable
+org.argouml.model.Model getActivityGraphsFactory()
+org.argouml.uml.diagram.ui.FigEdgeModelElement getTipString(MouseEvent) Refinement
+org.argouml.cognitive.ui.ToDoByPriority
+org.argouml.uml.cognitive.critics.AbstractCrTooMany
+org.argouml.cognitive.ui.ToDoPane
+org.argouml.kernel.MemberList Refinement
+org.argouml.uml.cognitive.critics.CrOppEndConflict
+org.argouml.uml.cognitive.critics.ChildGenUML
+org.argouml.kernel.ProjectImpl addTodoMember(ProjectMemberTodoList)
+org.argouml.uml.ui.behavior.use_cases.UMLExtendExtensionPointListModel
+org.argouml.uml.diagram.use_case.ui.SelectionUseCase
+org.argouml.uml.cognitive.critics.CrNoTriggerOrGuard
+org.argouml.uml.cognitive.critics.WizNavigable
+org.argouml.profile.internal.ocl.CrOCL
+org.argouml.uml.diagram.activity.ui.ActivityDiagramPropPanelFactory
+org.argouml.ui.cmd.ActionSelectInvert Refinement
+org.argouml.uml.cognitive.critics.CrMissingClassName
+org.argouml.cognitive.DesignGoalsCM
+org.argouml.cognitive.critics.ui.TableModelCritics
+org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram
+org.argouml.cognitive.ui.ToDoTreeRenderer
+org.argouml.profile.init.InitProfileSubsystem init() Refinement
+org.argouml.uml.diagram.ui.ActionAddExtensionPoint actionPerformed(ActionEvent) Refinement
+org.argouml.uml.cognitive.critics.CrInvalidJoinTriggerOrGuard
+org.argouml.uml.cognitive.critics.CrTooManyOper
+org.argouml.cognitive.critics.WizardItem
+org.argouml.cognitive.ui.ToDoByType
+org.argouml.application.Main Refinement
+org.argouml.uml.cognitive.critics.WizBreakCircularComp
+org.argouml.uml.ui.ElementPropPanelFactory getRelationshipPropPanel(Object) Refinement
+org.argouml.cognitive.EnabledCM
+org.argouml.uml.diagram.activity.ui.FigActionState
+org.argouml.uml.cognitive.critics.CrUselessAbstract
+org.argouml.persistence.ToDoItemXMLHelper
+org.argouml.cognitive.Agency
+org.argouml.persistence.XmiFilePersister parseXmiExtensions(Project) Refinement
+org.argouml.profile.Profile Refinement
+org.argouml.uml.cognitive.critics.CrNoGuard
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.ActionRemoveOFSParameter actionPerformed(ActionEvent) Refinement
+org.argouml.cognitive.checklist.CheckManager
+org.argouml.uml.cognitive.critics.CrForkOutgoingTransition
+org.argouml.uml.diagram.use_case.UseCaseDiagramGraphModel
+org.argouml.uml.diagram.activity.ui.ModePlacePartition
+org.argouml.uml.cognitive.critics.CrMissingAttrName
+org.argouml.profile.internal.ProfileUML Refinement
+org.argouml.kernel.ProjectManager setSaveAction(Action) Refinement
+org.argouml.uml.ui.behavior.use_cases.UMLIncludeBaseListModel
+org.argouml.ui.explorer.ExplorerPopup ExplorerPopup(Object,MouseEvent) Refinement
+org.argouml.uml.diagram.use_case.ui.InitUseCaseDiagram
+org.argouml.kernel.MemberList contains(Object) Refinement
+org.argouml.uml.cognitive.UMLToDoItem
+org.argouml.profile.internal.ProfileMeta loadWellFormednessRules()
+org.argouml.uml.cognitive.critics.CrInvalidHistory
+org.argouml.cognitive.Goal
+org.argouml.uml.diagram.ui.FigNodeModelElement getTipString(MouseEvent) Refinement
+org.argouml.cognitive.ui.ToDoByGoal
+org.argouml.uml.cognitive.critics.CrOperNameConflict
+org.argouml.uml.cognitive.critics.CrCircularInheritance
+org.argouml.uml.cognitive.critics.CrCircularAssocClass
+org.argouml.uml.cognitive.critics.ProfileGoodPractices
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram drop(Object,Point) Refinement
+org.argouml.uml.cognitive.critics.CrMissingStateName
+org.argouml.uml.diagram.ui.FigEdgeModelElement getPopUpActions(MouseEvent) Refinement
+org.argouml.uml.cognitive.critics.ClOperationCompartment
+org.argouml.cognitive.ui.AbstractGoList2
+org.argouml.uml.diagram.ui.ActionCompartmentDisplay actionPerformed(ActionEvent) Refinement
+org.argouml.uml.cognitive.critics.CrReservedName
+org.argouml.uml.ui.behavior.use_cases.UMLUseCaseExtensionPointListModel
+org.argouml.pattern.cognitive.critics.CrConsiderFacade
+org.argouml.cognitive.checklist.CheckItem
+org.argouml.kernel.MemberList add(ProjectMember) Refinement
+org.argouml.cognitive.AndCM
+org.argouml.uml.cognitive.critics.CrNameConflict
+org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml parseObjectFlowState2(Object,String) Refinement
+org.argouml.uml.diagram.activity.ui.UMLActivityDiagram
+org.argouml.cognitive.ui.AddToDoItemDialog
+org.argouml.uml.diagram.ui.FigEdgeModelElement hitClarifier(int,int)
+org.argouml.cognitive.ResolvedCritic
+org.argouml.application.Main openProject(SimpleTimer,SplashScreen,ProjectBrowser,URL) Refinement
+org.argouml.uml.cognitive.critics.CrIllegalGeneralization
+org.argouml.uml.ui.behavior.use_cases.PropPanelUseCase
+org.argouml.uml.cognitive.critics.CrNoTransitions
+org.argouml.uml.cognitive.critics.CrNoInstanceVariables
+org.argouml.uml.cognitive.critics.CrAlreadyRealizes
+org.argouml.uml.cognitive.critics.CrMergeClasses
+org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.ActionNewOFSParameter actionPerformed(ActionEvent) Refinement
+org.argouml.uml.diagram.ArgoDiagramImpl Refinement
+org.argouml.uml.cognitive.checklist.Init
+org.argouml.profile.UserDefinedProfile getAllCritiquesInModel()
+org.argouml.kernel.MemberList clear() Refinement
+org.argouml.cognitive.critics.SnoozeOrder
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram Refinement
+org.argouml.kernel.MemberList remove(Object) Refinement
+org.argouml.cognitive.Designer
+org.argouml.uml.cognitive.critics.CrTooManyAttr
+org.argouml.ui.DisplayTextTree Refinement
+org.argouml.cognitive.Critic
+org.argouml.uml.cognitive.critics.CrUnconventionalAttrName
+org.argouml.uml.cognitive.critics.CrTooManyAssoc
+org.argouml.cognitive.ui.GoListToDecisionsToItems
+org.argouml.profile.internal.ProfileMeta Refinement
+org.argouml.cognitive.ui.ToDoItemAction
+org.argouml.uml.cognitive.critics.CrAttrNameConflict
+org.argouml.uml.cognitive.critics.CrTooManyTransitions
+org.argouml.uml.cognitive.critics.CrInvalidForkTriggerOrGuard
+org.argouml.uml.ui.TabProps setTarget(Object) Refinement
+org.argouml.uml.cognitive.critics.CrUnconventionalPackName
+org.argouml.uml.ui.behavior.use_cases.PropPanelExtensionPoint
+org.argouml.ui.explorer.ExplorerPopup Refinement
+org.argouml.cognitive.ui.ToDoByOffender
+org.argouml.uml.cognitive.critics.WizAddInstanceVariable
+org.argouml.kernel.ProjectManager createDefaultDiagrams(Project) Refinement
+org.argouml.uml.cognitive.critics.CrNoOutgoingTransitions
+org.argouml.uml.cognitive.critics.CrUnnavigableAssoc
+org.argouml.uml.cognitive.critics.CrOppEndVsAttr
+org.argouml.cognitive.ui.PriorityNode
+org.argouml.uml.diagram.use_case.ui.UseCaseDiagramPropPanelFactory
